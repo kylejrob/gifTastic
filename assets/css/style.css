@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	
+	max-width: 960px; 
+	border-style: dashed;
+	border-color: black;
+	
+
+}
+
+#background {
+	background-size: 100%;
+    max-width: 1080px;
+    background-repeat: inherit;
+}
+
+#nba-form {
+	float: right;
+}
+
+h3 {
+	color: rgb(250, 250, 250);
+	text-align: center;
+
+}
+
+input {
+	align-content: center;
+}
+
+#nba-view {
+	float: left;
+
+}
+
+p {
+    color: white;
+}
