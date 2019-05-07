@@ -6,7 +6,7 @@ function displaynbaInfo() {
 
     var nba = $(this).attr('data-name');
 
-    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + nba + "&api_key=dc6zaTOxFJmzC&limit=10";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + nba + "&api_key=D9AAXPKxtY76PO4lMZiOBMIn4i4mjLDvlimit=10";
 
     $.ajax({
             url: queryURL,
